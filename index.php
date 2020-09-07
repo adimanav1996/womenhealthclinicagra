@@ -20,7 +20,7 @@
               </script>
     <body>
         <div id="welcome-section" class="front">
-            <div class="header text-center" style="color:#fffb89;font-weight:bold"><b>Hello,I'am <span style="color:#3402fd;font-size:1.5em;font-style:italic;">Dr. Ankita (Gupta) Jain </span><br>I am a <span style="color:red;font-size:1.5em;font-style:italic;">Gynecologist<br>MBBS, M.S.(Obs and Gynecology)</span></b><br>
+            <div class="header text-center" style="color:#fffb89;font-weight:bold"><b>Hello,I'am <span style="color:#3402fd;font-size:1.5em;font-style:italic;">Dr. Ankita Gupta (Jain) </span><br>I am a <span style="color:red;font-size:1.5em;font-style:italic;">Gynecologist<br>MBBS, M.S.(Obs and Gynecology)</span></b><br>
                 <span><button style="border:2px solid #fffb89;color:#0abfbf;background-color:#f9040475;opacity:0.8"><a href="#project" style="text-decoration:none">Scroll Down -></a></button></span></div>
         </div>
         <nav class="navbaar" id="navbar">
@@ -77,7 +77,7 @@ function myFunction() {
                     <img src="profilephoto.jpg" class="img-responsive">
                     </div>
                     <div class="myself" style="font-family:monospace;text-align:justify;padding:25px;font-size:1.3em;">
-                        <p>Dr. Ankita (Gupta) Jain is one of the most popular gynaecologists of this region. Her work is her passion which reflects in her practice. Having a strong social conscience , she treats her patients with empathy and compassion.She practices at Dr. Dr Shubham Uro Centre Obs & Gyn super-speciality centre, which boasts of state-of-the-art obgyn facilities along with very personalised and individualised care . The staff and the team is competent and there is a general aura of positivity.
+                        <p>Dr. Ankita Gupta (Jain) is one of the most popular gynaecologists of this region. Her work is her passion which reflects in her practice. Having a strong social conscience , she treats her patients with empathy and compassion.She practices at Dr. Dr Shubham Uro Centre Obs & Gyn super-speciality centre, which boasts of state-of-the-art obgyn facilities along with very personalised and individualised care . The staff and the team is competent and there is a general aura of positivity.
 
 Dr. Ankita (Gupta) Jain is also a columnist for many Hindi Rural Newspaper Gaon Connection. She writes about women issues.
 
@@ -86,25 +86,25 @@ She is an accredited speaker in the excell program on vaccination against cervic
                 </div>
                 <div class="col-sm-6" data-wow-duration='2s'>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:90%">Blastocyst Transfer</span><b>90%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:90%">Blastocyst Transfer</span><b></b>
                     </div>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:80%">Egg Donation</span><b>80%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:80%">Egg Donation</span><b></b>
                     </div>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:70%">Embryo Vitrification</span><b>70%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:70%">Embryo Vitrification</span><b></b>
                     </div>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:65%">Fertility Treatment</span><b>65%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:65%">Fertility Treatment</span><b></b>
                     </div>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:90%">In-Vitro Fertilization (IV</span><b>90%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:90%">In-Vitro Fertilization (IV</span><b></b>
                     </div>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:50%">Laser Assisted Hatching</span><b>50%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:50%">Laser Assisted Hatching</span><b></b>
                     </div>
                     <div class="progress" style="text-align:right">
-                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:90%">Surrogacy</span><b>90%</b>
+                        <span class="progressName wow slideInLeft" style="float:left;text-align:left;width:90%">Surrogacy</span><b></b>
                     </div>
                     
                     <div class="wow slideInRight" data-wow-duration='2s'>
